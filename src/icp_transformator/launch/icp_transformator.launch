@@ -1,0 +1,7 @@
+<launch>
+  
+  <node pkg="icp_transformator" type="icp_transformator_core" name="icp_transformator_core" output="screen">
+    <rosparam command="load" file="/home/efe-ubuntu/Desktop/catkin_ws3/src/icp_transformator/config/default.yaml" />
+  </node>
+
+</launch>

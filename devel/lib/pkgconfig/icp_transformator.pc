@@ -1,0 +1,8 @@
+prefix=/home/efe-ubuntu/Desktop/catkin_ws3/devel
+
+Name: icp_transformator
+Description: Description of icp_transformator
+Version: 1.2.4
+Cflags: -I/home/efe-ubuntu/Desktop/catkin_ws3/src/icp_transformator/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -licp_transformator_core
+Requires: roscpp sensor_msgs

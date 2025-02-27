@@ -1,0 +1,4 @@
+subscriber_velodyne: /velodyne_points
+subscriber_world: /cloud_all_fields_fullframe
+
+publisher_aligned_final: /aligned_cloud

@@ -1,0 +1,2 @@
+icp_transformator
+-DCATKIN_DEVEL_PREFIX=/home/efe-ubuntu/Desktop/catkin_ws3/devel -DCMAKE_INSTALL_PREFIX=/home/efe-ubuntu/Desktop/catkin_ws3/install -G Unix Makefiles
